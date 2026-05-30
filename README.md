@@ -16,6 +16,14 @@ The final model achieved:
 The analysis revealed that artist popularity, danceability, energy, loudness, and tempo were among the strongest predictors of streaming success.
 
 ---
+| File Name                                  | Purpose                                                                                  |
+| ------------------------------------------ | --------------------------------------------------------------
+| Spotify Popularity Algorithm.pdf           | Reference document about Spotify popularity metrics and recommendation systems           |
+| Spotify-Success-Predictor Final Report.pdf | Complete final report explaining the project, database design, ML workflow, and findings |
+| part1_api.py                               | Collects Spotify track and artist metadata using the Spotify API                         |
+| part2_sql.py                               | Cleans datasets, builds SQL tables, and merges Spotify + audio feature data              |
+| part3_ml.py                                | Trains machine learning models to predict Spotify popularity scores                
+
 
 ## Features
 
